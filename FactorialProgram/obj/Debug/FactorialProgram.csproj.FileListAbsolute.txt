@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\bin\Debug\FactorialProgram.exe.config
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\bin\Debug\FactorialProgram.exe
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\bin\Debug\FactorialProgram.pdb
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\obj\Debug\FactorialProgram.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\obj\Debug\FactorialProgram.exe
+C:\Users\ADMIN\source\repos\SecondSkillTest\FactorialProgram\obj\Debug\FactorialProgram.pdb
